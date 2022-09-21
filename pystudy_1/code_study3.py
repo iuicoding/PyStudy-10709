@@ -88,7 +88,7 @@
 #
 #student = Student("운인성", 3)
 #student.출력()
-
+rererererererererererererererereeererererererererrererererererererererrererererererererererrererekrejrekreh
 
 
 
